@@ -29,12 +29,12 @@ Cheatsheets for experienced React developers getting started with TypeScript
 ## All React + TypeScript Cheatsheets
 
 - [The Basic Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) is focused on helping React devs just start using TS in React **apps**
-  - Focus on opinionated best practices, copy+pastable examples.
+  - Focus on opinionated best practices and copy+pastable examples.
   - Explains some basic TS types usage and setup along the way.
   - Answers the most Frequently Asked Questions.
-  - Does not cover generic type logic in detail. Instead we prefer to teach simple troubleshooting techniques for newbies.
-  - The goal is to get effective with TS without learning _too much_ TS.
-- [The Advanced Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/advanced) helps show and explain advanced usage of generic types for people writing reusable type utilities/functions/render prop/higher order components and TS+React **libraries**.
+  - Does not cover generic type logic in detail. Instead, we prefer to teach simple troubleshooting techniques for newbies.
+  - The goal is to be effective with TS without learning _too much_ TS.
+- [The Advanced Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/advanced) helps show and explain advanced usage of generic types for people writing reusable type utilities/functions/render prop/higher-order components and TS+React **libraries**.
   - It also has miscellaneous tips and tricks for pro users.
   - Advice for contributing to DefinitelyTyped.
   - The goal is to take _full advantage_ of TypeScript.
